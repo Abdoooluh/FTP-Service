@@ -48,4 +48,5 @@ Some additional info:
 - The service can be set to start automatically - for this, in the 'Services.msc' window, right click on the 'FTP Service' > properties >  Startup Type > Automatic. This will cause the service to start automatically on system startup and eliminate the need for manually starting it every time.
 
 -- Created by Abdullah
-github -> https://github.com/Abdoooluh/FTP-Service
+
+github -> https://github.com/Abdoooluh
