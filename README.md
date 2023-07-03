@@ -1,4 +1,4 @@
->> FTP Service Installation Guide
+# **FTP Service Installation Guide**
 
 This service will act as an automated routine, to transfer all the contents from a local folder to a remote ftp server after a fixed interval. It will not copy files that are already present at the remote server, and if any file is deleted from the local folder AFTER it has already been transmitted to the remote server, such files will not be deleted from the server.
 
